@@ -73,7 +73,7 @@ def verifica(pontuacao):
     return vencedor
 
 #Função prinicpal que pede o número e nome de jogadores e chama as demais funções para que o jogo aconteceça
-def main():
+def __main__():
     baralho = criarBaralho()
     numeroJogadores = int(input("Quantos são os jogadores?\n"))
     n = 1
@@ -101,4 +101,4 @@ def main():
     print(verifica(nomeJogadores))
 
 if __name__ =="__main__":
-    main()
+    __main__()
