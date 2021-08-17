@@ -1,6 +1,8 @@
 # black-jack
 Projeto Extra - Degree Data Science Let's Code
 
+Enunciado
+
 Super Desafio! - Faça um jogo de BlackJack usando funções: o BlackJack, ou Vinte e Um, é um jogo em que os jogadores podem comprar cartas livremente, enquanto tiverem menos de 21 pontos. No nosso jogo, o Ás vale um ponto; as cartas de 2 a 10 valem o número de pontos que elas representam; e Valete, Dama e Rei valem 10 pontos cada. Ganha o jogador que tiver o maior número de pontos, desde que este seja menor ou igual a 21. Nosso jogo deve ter as seguintes funções:
 
 a. Função principal: a função que vamos chamar para iniciar o jogo. Essa função não irá receber nem retornar nenhuma variável. Ela deve perguntar o número de jogadores participantes e o nome de cada um. Em seguida ela chama as outras funções do jogo.
